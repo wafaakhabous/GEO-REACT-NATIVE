@@ -1,0 +1,18 @@
+[
+    { "name": "FSTM",
+    "coords":{
+         "latitude": 33.706683, "longitude": -7.353582
+    }, "image_url": "https://example.com/marker2.jpg" },
+
+    { "name": "La fac Eco", 
+    "coords":{
+        "latitude": 33.704837, "longitude": -7.356860
+    }, "image_url": "https://example.com/marker1.jpg" },
+    
+    
+    { "name": "Marjane", 
+    "coords":{
+        "latitude": 33.707703, "longitude": -7.347315
+    }
+    ,"image_url": "https://example.com/marker3.jpg" }
+]
